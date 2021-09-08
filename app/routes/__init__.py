@@ -1,0 +1,1 @@
+"This moudle contains routes of flask-app"
